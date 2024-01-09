@@ -4,4 +4,4 @@
 <br>
 # Git Repository No. 6 #
 <br>
-# This is a "Logon form" Web-Development project using HTML, CSS #
+# This is a "Login form" Web-Development project using HTML, CSS #
